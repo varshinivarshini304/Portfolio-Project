@@ -67,4 +67,10 @@ button:hover {
     background-color: aqua;
 }
 
-
+.CV{
+    background-color:  #f1f1e6;
+    padding:0.5rem 1.8rem;
+    border-radius: 50px;
+    color: #333;
+   
+}
