@@ -74,3 +74,28 @@ button:hover {
     color: #333;
    
 }
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+}
+
+.photo {
+    flex: 1;
+    max-width: 400px; /* Adjust as needed */
+}
+
+.photo img {
+    width: 100%;
+    height: auto;
+    border-radius: 20px; /* Optional for rounded corners */
+}
+
+.text {
+    flex: 1;
+    margin-left: 40px;
+    color: white;
+    font-weight: bolder;
+    font-size: larger;
+}
